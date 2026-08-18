@@ -1,6 +1,6 @@
-Power BI data model built for enterprise scalability — ensuring model delivered on five core design principles:
+Power BI data model built for enterprise scalability — ensuring model delivers on five core design principles:
 
-Business alignment — models designed from day-to-day business requirements, ensuring every table, relationship, and measure serves a defined analytical objective.
+Business alignment — model designed from day-to-day business requirements, ensuring every table, relationship, and measure serves a defined analytical objective.
 
 Predictable performance — applied star schema design, appropriate cardinality, query folding, and aggregation strategies to maintain consistent report load times regardless of data volume growth.
 
